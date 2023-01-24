@@ -1,5 +1,0 @@
-eval_points_whole_one.csv
-Error.wav
-params.txt
-obs_one.csv
-plots.py
